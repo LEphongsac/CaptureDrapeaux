@@ -1,6 +1,9 @@
-package prca_cc2_jan2022;
+package Thread;
+
+import Signal.Signal;
 
 import java.util.List;
+import Signal.JoueurEcritureLecture;
 
 public class Joueur extends Thread {
     private JoueurEcritureLecture EJ;

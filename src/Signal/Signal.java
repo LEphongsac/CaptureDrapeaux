@@ -1,4 +1,4 @@
-package prca_cc2_jan2022;
+package Signal;
 
 public class Signal {
     boolean present = false;

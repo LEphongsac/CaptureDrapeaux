@@ -1,11 +1,11 @@
-package prca_cc2_jan2022;
+package Signal;
 
 import java.util.List;
 
 public class JoueurEcritureLecture {
         private int nbJoueurs = 0;
         private boolean joueursEcrire = false;
-        List<List<Integer>> plateau;
+        public List<List<Integer>> plateau;
 
         public JoueurEcritureLecture(List<List<Integer>> plateau){
         this.plateau=plateau;

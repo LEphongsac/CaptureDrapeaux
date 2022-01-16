@@ -1,4 +1,4 @@
-package prca_cc2_jan2022;
+package Thread;
 
 public enum Facteur {
     UNDEFINED,

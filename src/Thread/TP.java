@@ -1,4 +1,6 @@
-package prca_cc2_jan2022;
+package Thread;
+
+import Signal.JoueurEcritureLecture;
 
 import java.util.ArrayList;
 import java.util.HashMap;
